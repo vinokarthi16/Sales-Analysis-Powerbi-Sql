@@ -54,6 +54,4 @@ The project focuses on answering important business questions:
 ## 7. Project Objective
 To demonstrate my practical knowledge of SQL and Power BI and apply data analysis techniques to generate meaningful business insights and support data-driven decision-making.
 
-
-**Author:** Data Analyst Portfolio Project  
 **Skills:** SQL | Power BI | Excel | Data Analysis
